@@ -2,3 +2,4 @@
 - [puzzleswithmatt.com](https://puzzleswithmatt.com) - math, word and logic puzzles
 - [mattsmovielist.com](https://mattsmovielist.com) - movie reviews since 2022
 - [Google Scholar](https://scholar.google.com/citations?user=nyCnX_gAAAAJ) - graduate work
+- [Tiwtter](https://x.com/_laundry_matt_) - irregular facts
