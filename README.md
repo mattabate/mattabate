@@ -1,4 +1,4 @@
 - [mattabate.com](https://mattabate.com) — projects, personal and academic work
-- [puzzleswithmatt.com](https://puzzleswithmatt.com)
-- [mattsmovielist.com](https://mattsmovielist.com)
-- [Google Scholar](https://scholar.google.com/citations?user=nyCnX_gAAAAJ)
+- [puzzleswithmatt.com](https://puzzleswithmatt.com) - math, word and logic puzzles
+- [mattsmovielist.com](https://mattsmovielist.com) - movie reviews since 2022
+- [Google Scholar](https://scholar.google.com/citations?user=nyCnX_gAAAAJ) - graduate work
